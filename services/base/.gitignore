@@ -1,0 +1,7 @@
+# package directories
+node_modules
+dist
+# AWS configs
+venue-metadata/services/base/lambda_config.json
+venue-metadata/services/base/lambda_config-dev0.json
+venue-metadata/services/base/lambda_config-dev1.json

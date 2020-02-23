@@ -1,0 +1,29 @@
+# package directories
+node_modules
+jspm_packages
+dist
+# Serverless directories
+.serverless
+npm-debug.log
+# Webpack output
+.webpack
+# AWS configs
+lambda_config.json
+scripts/deploy_parser.sh
+build
+.env
+.eslintignore
+.eslintrc
+.idea
+.jshintrc
+services/base/bdfdataparser.zip
+# Webpack output
+.webpack
+# AWS configs
+services/base/includes/recommender-engine/recco-auth.json
+scripts/build
+truevrdataparser.git
+/node_modules
+REVISION
+db/db_config
+venue-db.zip
